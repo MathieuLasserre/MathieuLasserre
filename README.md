@@ -1,4 +1,3 @@
-![Cover](./fond.jpg)
 <h1 align=center>Mathieu Lasserre</h1>
 <h2 align=center>Développeur web </h2>
 
